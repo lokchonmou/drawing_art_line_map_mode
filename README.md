@@ -3,3 +3,4 @@ Use webcam or photo to generate gcode and directly import to GRBL machine to dra
 
 
 The program depents on the OPENCV-for-processing and video library, please download those library before run
+PLEASE USE Processing 2 for best result
